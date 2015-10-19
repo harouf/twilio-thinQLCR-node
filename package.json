@@ -1,5 +1,5 @@
 {
-  "name": "twilio-thinQLCR-node",
+  "name": "twilio-thinqlcr-node",
   "version": "1.0.0",
   "description": "Twilio Wrapper NodeJS Library For thinQ LCR integration.",
   "main": "index.js",
